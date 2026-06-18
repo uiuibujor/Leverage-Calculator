@@ -1,0 +1,6 @@
+{
+  "name": "Leverage Calculator",
+  "description": "杠杆仓位计算器",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
